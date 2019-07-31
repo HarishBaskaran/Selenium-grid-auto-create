@@ -1,4 +1,2 @@
 # Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
-*.rb linguist-language=Java
-*.rb linguist-language=Selenium
-*.rb linguist-language=Selenide
+*.rb linguist-language=selenium
