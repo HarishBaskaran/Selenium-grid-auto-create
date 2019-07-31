@@ -1,4 +1,4 @@
-# Selenium-grid-auto-start
+# Selenium-grid-auto-create
 This snippet is written with JAVA and SELENIDE as base languages.
 This is a maven project with testng framework.
 
