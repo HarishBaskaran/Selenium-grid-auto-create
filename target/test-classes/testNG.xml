@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+ 
+<suite name="Suite" configfailurepolicy="continue" parallel="classes" thread-count="10">
+ 
+       <parameter name="remote" value="false" />
+       <parameter name="remoteUrl" value="" />
+       <parameter name="headless" value="true" />   
+ 
+<test name="UI Automation" preserve-order="true">
+              <classes>
+					<class name="testLogin" />
+              </classes>
+       </test>     
+</suite>

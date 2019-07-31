@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17" started-at="2019-07-31T17:42:29Z" finished-at="2019-07-31T17:42:29Z">
+    <groups>
+    </groups>
+    <test name="UI Automation" duration-ms="17" started-at="2019-07-31T17:42:29Z" finished-at="2019-07-31T17:42:29Z">
+      <class name="testLogin">
+        <test-method status="PASS" signature="beforeSuite(boolean, java.lang.String, boolean)[pri:0, instance:testLogin@6e1ec318]" name="beforeSuite" is-config="true" duration-ms="11048" started-at="2019-07-31T17:42:18Z" finished-at="2019-07-31T17:42:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testLogin@6e1ec318]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-07-31T17:42:29Z" finished-at="2019-07-31T17:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:testLogin@6e1ec318]" name="testLogin" duration-ms="5" started-at="2019-07-31T17:42:29Z" finished-at="2019-07-31T17:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="defaultAfterClass()[pri:0, instance:testLogin@6e1ec318]" name="defaultAfterClass" is-config="true" duration-ms="1" started-at="2019-07-31T17:42:29Z" finished-at="2019-07-31T17:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultAfterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testLogin@6e1ec318]" name="afterSuite" is-config="true" duration-ms="6809" started-at="2019-07-31T17:42:30Z" finished-at="2019-07-31T17:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testLogin -->
+    </test> <!-- UI Automation -->
+  </suite> <!-- Suite -->
+</testng-results>
